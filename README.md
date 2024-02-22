@@ -14,8 +14,8 @@ in der Moduswahl und in jedem anderen Menü kannst du dir mit angegebenen Zahlen
 Wenn du in einem Modus drinnen bist (also bis jetzt "Freelearn-Modus" und "Competetive-Modus")
 kannst du folgende Befehle eingeben:
 
-l = zurück zum Hauptmenü (leave)
-q = das Programm verlassen (quit)
+l = zurück zum Hauptmenü 'leave'
+q = das Programm verlassen 'quit'
 
 
 ##++Eine Lernmethode für das Programm++##
